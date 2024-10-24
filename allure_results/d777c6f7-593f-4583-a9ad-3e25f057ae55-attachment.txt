@@ -1,0 +1,1 @@
+ 200 OK. {"success":true,"user":{"email":"larionovafaina@rambler.ru","name":"Goga"}}

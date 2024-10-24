@@ -1,0 +1,11 @@
+class TextAnswers:
+    _textCreateUser200 = 'success":true'
+    _textCreateExistingUser403 = 'User already exists'
+    _textCreateUserWithoutField403 = 'Email, password and name are required fields'
+    _textAuthorized401 = 'email or password are incorrect'
+    _textAuthorized200 = 'success":true'
+    _textChangeData200 = 'success":true'
+    _textChangeData403 = 'User with such email already exists'
+    _textChangeData401 = 'You should be authorised'
+    _textCreateOrder400 = 'Ingredient ids must be provided'
+    _textOrdersList401 = 'You should be authorised'

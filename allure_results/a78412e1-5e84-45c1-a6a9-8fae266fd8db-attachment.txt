@@ -1,0 +1,1 @@
+ 200 OK. {"success":true,"user":{"email":"belozerovstepan@yandex.ru","name":"anike_53"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWExY2RhOWVkMjgwMDAxYjRmMTIwMCIsImlhdCI6MTcyOTc2NDU3MCwiZXhwIjoxNzI5NzY1NzcwfQ.Gb98BTaIqm9NQtQxsw4v4eKjodGOt22GdZwxsdJ35PE","refreshToken":"62e8e75b24b2d3d72ec00b3e6cfc43d3edde12e8d06f0e40284825d3d6836dfe5fea5864663513ff"}
